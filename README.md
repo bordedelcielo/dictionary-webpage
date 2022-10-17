@@ -1,0 +1,1 @@
+A simple webpage for displaying word definitions.
