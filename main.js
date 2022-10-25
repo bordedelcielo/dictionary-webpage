@@ -4,6 +4,7 @@ console.log(start)
 
 function clickButton() {
         console.log('You just clicked the button')
+        main.innerHTML = ''
 }
 
 start.onclick = (event) => {
